@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Logo" src="https://res.cloudinary.com/dpz6e1awu/image/upload/v1603926812/next_logo_e06dto.jpg" width="400px" >
+  <img alt="Logo" src="https://res.cloudinary.com/dpz6e1awu/image/upload/v1603926812/next_logo_e06dto.jpg" width="500px" >
 </h>
 
 <h3 align="center">
