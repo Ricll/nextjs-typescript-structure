@@ -20,7 +20,10 @@
 
 ## 💇🏻‍♂️ About the project
 
-Original Project made by Diego Fernandes CTO at [@Rocketseat](https://rocketseat.com.br/)
+The original struture was made by Diego Fernandes CTO at [@Rocketseat](https://rocketseat.com.br/)
+
+The only difference between both its I'm using the new image component introduced in version 10.0.0 of Next.js
+
 
 
 
@@ -32,7 +35,6 @@ Technologies that I used to develop this structure
 - [TypeScript](https://www.typescriptlang.org/)
 - [Next.js](https://nextjs.org/blog/next-10)
 - [Styled Components](https://styled-components.com/)
-- [Axios](https://github.com/axios/axios)
 - [Eslint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 - [EditorConfig](https://editorconfig.org/)
