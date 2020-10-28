@@ -20,7 +20,7 @@
 
 ## 💇🏻‍♂️ About the project
 
-The original struture was made by Diego Fernandes CTO at [@Rocketseat](https://rocketseat.com.br/)
+The [original project](https://github.com/rocketseat-content/react-nextjs-typescript-structure) was made by Diego Fernandes CTO at [@Rocketseat](https://rocketseat.com.br/)
 
 The only difference between both its I'm using the new image component introduced in version 10.0.0 of Next.js
 
